@@ -20,3 +20,7 @@ A football-themed game currently in development, featuring football trivia and p
 🚧 Currently in development.
 
 More features and improvements are coming soon!
+
+## Play the Game
+
+[**Play Final Whistle Online**](https://willowy-centaur-0eb86d.netlify.app/)
