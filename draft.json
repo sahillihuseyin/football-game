@@ -1,0 +1,343 @@
+{
+"Gianluigi Buffon": [
+"G",
+27
+],
+"Manuel Neuer": [
+"G",
+32
+],
+"Iker Casillas": [
+"G",
+26
+],
+"Petr Čech": [
+"G",
+19
+],
+"Víctor Valdés": [
+"G",
+20
+],
+"Sergio Ramos": [
+"D",
+29,
+[
+"Real Madrid",
+"PSG",
+"Sevilla"
+]
+],
+"Gerard Piqué": [
+"D",
+35
+],
+"Paolo Maldini": [
+"D",
+26
+],
+"Philipp Lahm": [
+"D",
+21
+],
+"Dani Alves": [
+"D",
+43
+],
+"Carles Puyol": [
+"D",
+22
+],
+"Roberto Carlos": [
+"D",
+19
+],
+"John Terry": [
+"D",
+15
+],
+"Thiago Silva": [
+"D",
+22
+],
+"Andrés Iniesta": [
+"M",
+37
+],
+"Xavi": [
+"M",
+30
+],
+"Zinedine Zidane": [
+"M",
+13
+],
+"Andrea Pirlo": [
+"M",
+19
+],
+"Luka Modrić": [
+"M",
+34
+],
+"Kaká": [
+"M",
+13
+],
+"Ryan Giggs": [
+"M",
+34
+],
+"Frank Lampard": [
+"M",
+12
+],
+"Cesc Fàbregas": [
+"M",
+17
+],
+"Toni Kroos": [
+"M",
+35
+],
+"Wesley Sneijder": [
+"M",
+15
+],
+"Cristiano Ronaldo": [
+"F",
+34
+],
+"Lionel Messi": [
+"F",
+45
+],
+"Zlatan Ibrahimović": [
+"F",
+34
+],
+"Thierry Henry": [
+"F",
+17
+],
+"Karim Benzema": [
+"F",
+30
+],
+"Didier Drogba": [
+"F",
+16
+],
+"Wayne Rooney": [
+"F",
+16
+],
+"Samuel Eto'o": [
+"F",
+19
+],
+"Neymar": [
+"F",
+28
+],
+"Robert Lewandowski": [
+"F",
+25
+],
+"Thomas Müller": [
+"F",
+32
+],
+"Andriy Shevchenko": [
+"F",
+15
+],
+"Marcelo Vieira": [
+"D",
+25
+],
+"Harry Kane": [
+"F",
+2
+],
+"Joshua Kimmich": [
+"M",
+21
+],
+"Franck Ribéry": [
+"F",
+24
+],
+"Arjen Robben": [
+"F",
+26
+],
+"Bastian Schweinsteiger": [
+"M",
+22
+],
+"Mats Hummels": [
+"D",
+12
+],
+"Marco Reus": [
+"M",
+4
+],
+"Erling Haaland": [
+"F",
+10
+],
+"Kevin De Bruyne": [
+"M",
+22
+],
+"Sergio Agüero": [
+"F",
+18
+],
+"David Silva": [
+"M",
+18
+],
+"Mohamed Salah": [
+"F",
+10
+],
+"Virgil van Dijk": [
+"D",
+12
+],
+"Steven Gerrard": [
+"M",
+12
+],
+"Luis Suárez": [
+"F",
+22
+],
+"Xabi Alonso": [
+"M",
+17
+],
+"Alisson Becker": [
+"G",
+11
+],
+"Eden Hazard": [
+"F",
+12
+],
+"N'Golo Kanté": [
+"M",
+9
+],
+"Gareth Bale": [
+"F",
+21
+],
+"Fernando Torres": [
+"F",
+8
+],
+"Diego Godín": [
+"D",
+9
+],
+"Alessandro Del Piero": [
+"F",
+16
+],
+"Javier Zanetti": [
+"D",
+16
+],
+"Hakan Şükür": [
+"F",
+10
+],
+"Arda Turan": [
+"M",
+10
+],
+"Alex de Souza": [
+"M",
+10
+],
+"Fernando Muslera": [
+"G",
+18
+],
+"Mesut Özil": [
+"M",
+11
+],
+"Paul Scholes": [
+"M",
+24
+],
+"David Beckham": [
+"M",
+19
+],
+"Nemanja Vidić": [
+"D",
+14
+],
+"Peter Schmeichel": [
+"G",
+18
+],
+"Trent Alexander-Arnold": [
+"D",
+10
+],
+"Sadio Mané": [
+"F",
+12
+],
+"Patrick Vieira": [
+"M",
+19
+],
+"Dennis Bergkamp": [
+"F",
+15
+],
+"Ashley Cole": [
+"D",
+16
+],
+"Vincent Kompany": [
+"D",
+14
+],
+"Yaya Touré": [
+"M",
+16
+],
+"Antoine Griezmann": [
+"F",
+6
+],
+"Diego Costa": [
+"F",
+9
+],
+"Mario Götze": [
+"M",
+12
+],
+"Ronaldinho": [
+"F",
+15
+],
+"Clarence Seedorf": [
+"M",
+18
+],
+"Gennaro Gattuso": [
+"M",
+14
+]
+}
